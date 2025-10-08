@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ae2fd8e086a5f94991b50e5ca890322, type: 3}
+  m_Name: EnemyRunAnim
+  m_EditorClassIdentifier: 
+  AnimationFPS: 30
+  Animations:
+  - Name: RunBulletMan
+    Meshes:
+    - {fileID: 4300000, guid: d8e787ec89826a9468cd31666177044c, type: 2}
+    - {fileID: 4300000, guid: 481d0f9db160b614fb604d2de12b0b19, type: 2}
+    - {fileID: 4300000, guid: 3ce4529726d310f4a91d3e2d70d5eeb9, type: 2}
+    - {fileID: 4300000, guid: fc86ed3b0a292a548b0326648212280e, type: 2}
+    - {fileID: 4300000, guid: 2a3d928a114b1d94b979f9f66bff7230, type: 2}
+    - {fileID: 4300000, guid: 3f8bcbc59644c824793bf95ea0ac78b6, type: 2}
+    - {fileID: 4300000, guid: c420839db3ab635439e10e74f12f766b, type: 2}
+    - {fileID: 4300000, guid: 883128b5f5d96b0488cc1c2a53f1da7e, type: 2}
+    - {fileID: 4300000, guid: afa407a4119481f48aa14a026e21d969, type: 2}
+    - {fileID: 4300000, guid: fa1756950097c1849814add12671739f, type: 2}
+    - {fileID: 4300000, guid: b23e09165d464014cbb61d6f9e72e895, type: 2}
+    - {fileID: 4300000, guid: e66789173b2338c42b1d28e8f8496cf0, type: 2}
+    - {fileID: 4300000, guid: f3c22e5983b704b4da79c335207e9101, type: 2}
+    - {fileID: 4300000, guid: 9232ad2737933844eba776406fe3766a, type: 2}
+    - {fileID: 4300000, guid: 85322ed16ff4e3848b526ee7ca18dba9, type: 2}
+    - {fileID: 4300000, guid: 7311987534dbae14fad4c755bac46ed1, type: 2}
+    - {fileID: 4300000, guid: 06fe72c6f796afd4f837a313743f26a8, type: 2}
+    - {fileID: 4300000, guid: 08ac29c681891964c98816fdcdf25e93, type: 2}
+    - {fileID: 4300000, guid: 494d8344d94ce7a4abf76ceb903f1e0f, type: 2}
